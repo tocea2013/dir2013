@@ -1,0 +1,15 @@
+[user]
+	name = christophe carlier
+	email = ltcnc.carlier@tocea.com
+   
+ 
+[color]
+  branch = auto
+  diff = auto
+  status = auto
+  interactive = auto
+
+[color "branch"]
+	current = blue reverse
+	local = blue
+        remote = gree
