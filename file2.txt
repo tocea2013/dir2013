@@ -3,10 +3,6 @@
 	email = ltcnc.carlier@tocea.com
    
  
-[color]
-  branch = auto
-  diff = auto
-  status = auto
   interactive = auto
 
 [color "branch"]
