@@ -9,7 +9,5 @@
   status = auto
   interactive = auto
 
-[color "branch"]
-	current = blue reverse
-	local = blue
+e
         remote = gree
